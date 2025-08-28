@@ -1,8 +1,26 @@
-# Food Quality Prediction System
+# Food Package Quality Prediction (React + ML)
 
-A sophisticated machine learning application for non-invasive food quality assessment. This system uses computer vision to analyze images of packaged foods and determine if they are damaged or fresh.
+This is a machine learning-based web application built using **React.js**. The goal is to predict the quality of **unopened food packages** (like fruit boxes) using image input — either from a **file upload** or **camera** — without needing to unbox the package.
 
-## Features
+---
+
+## 🎯 Project Objective
+
+To help retailers and suppliers assess the freshness of packaged food items using image-based machine learning, ensuring better quality control and reduced food waste.
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend**: React.js, HTML5, CSS3, JavaScript
+- **ML Integration**: Teachable Machine (or TensorFlow.js)
+- **Input Methods**: Camera, File Upload
+- **Deployment**: Microsoft Azure Static Web Apps (or others like Netlify)
+- **Version Control**: Git & GitHub
+
+---
+
+## 🎯 Features
 
 ### Core Functionality
 - **Multi-Model Support**: Three specialized models for different food quality assessments:
@@ -81,3 +99,11 @@ This project is designed as a complete solution for food quality assessment. Con
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contact
+
+**Ramya V**
+- 9750ramya@gmail.com
+- https://www.linkedin.com/in/ramya-v-0135a9257/
+
+Thanks for viewing the project...
