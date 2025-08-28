@@ -13,10 +13,8 @@ To help retailers and suppliers assess the freshness of packaged food items usin
 ## 🛠 Tech Stack
 
 - **Frontend**: React.js, HTML5, CSS3, JavaScript
-- **ML Integration**: Teachable Machine (or TensorFlow.js)
+- **ML Integration**: TensorFlow.js
 - **Input Methods**: Camera, File Upload
-- **Deployment**: Microsoft Azure Static Web Apps (or others like Netlify)
-- **Version Control**: Git & GitHub
 
 ---
 
@@ -56,20 +54,6 @@ The system uses TensorFlow.js to run pre-trained models directly in the browser:
 - **Material-UI**: Modern UI components and styling
 - **ApexCharts**: Interactive data visualization
 - **React Webcam**: Camera integration for real-time capture
-
-## Getting Started
-
-1. Install dependencies:
-   ```
-   npm install
-   ```
-
-2. Start the development server:
-   ```
-   npm start
-   ```
-
-3. Open your browser to `http://localhost:3000`
 
 ## Usage
 
